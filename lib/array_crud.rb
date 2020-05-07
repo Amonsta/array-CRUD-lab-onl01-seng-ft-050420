@@ -10,6 +10,8 @@ def add_element_to_end_of_array(array, element)
   #{array} << "#{element}"
 end
 
+my_num << "5"
+
 def add_element_to_start_of_array(array, element)
   my_num.unshift("0")
 end
