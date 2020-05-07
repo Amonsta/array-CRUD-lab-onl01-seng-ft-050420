@@ -3,15 +3,15 @@ def create_an_empty_array
 end
 
 def create_an_array
-  my_num = ["1" , "2" , "3"]
+  my_num = ["1" , "2" , "3", "4"]
 end
 
 def add_element_to_end_of_array(array, element)
-  my_num << ["4"]
+  my_num << ["5"]
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  my_num.unshift("0")
 end
 
 def remove_element_from_end_of_array(array)
