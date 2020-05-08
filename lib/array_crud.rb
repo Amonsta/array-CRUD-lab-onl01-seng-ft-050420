@@ -35,10 +35,3 @@ def retrieve_last_element_from_array(array)
   #{array}.last
 end
 
-
-
-
-
-
-retrieve_first_element_from_array(array)
-retrieve_last_element_from_array(array)
