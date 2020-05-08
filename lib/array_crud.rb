@@ -41,4 +41,4 @@ end
 
 
 retrieve_first_element_from_array(my_num)
-retrieve_last_element_from_array(my_num)
+retrieve_last_element_from_array("")
