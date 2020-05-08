@@ -7,10 +7,10 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  #{array} << "#{element}"
+  puts #{array} << "#{element}"
 end
 
-my_num << "5"
+add_element_to_end_of_array(my_array, "5")
 
 def add_element_to_start_of_array(array, element)
   my_num.unshift("0")
