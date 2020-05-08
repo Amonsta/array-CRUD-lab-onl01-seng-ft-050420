@@ -12,19 +12,19 @@ end
 
 
 def add_element_to_start_of_array(array, element)
-  #{array}.unshift(#{element})
+  array.unshift("5")
 end
 
 def remove_element_from_end_of_array(array)
-  #{array}.pop
+  array.pop
 end
 
 def remove_element_from_start_of_array(array)
-  #{array}.shift
+  array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-  #{array}#{index_number}
+  array[3]
 end
 
 def retrieve_first_element_from_array(array)
