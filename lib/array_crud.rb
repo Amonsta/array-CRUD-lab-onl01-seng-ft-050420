@@ -32,7 +32,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-   array = ["wow", "I", "am", "really", "learning", "arrays!"]
   #{array}.last
 end
 
@@ -41,5 +40,5 @@ end
 
 
 
-retrieve_first_element_from_array(my_num)
-retrieve_last_element_from_array("array")
+retrieve_first_element_from_array(array)
+retrieve_last_element_from_array(array)
